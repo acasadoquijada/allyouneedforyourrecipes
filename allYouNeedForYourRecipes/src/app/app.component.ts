@@ -1,8 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { AuthService } from './auth/auth.service';
-import { RecipeService } from './recipes/recipe.service';
-import { ShoppingListComponent } from './shopping-list/shopping-list.component';
-import { ShoppingListService } from './shopping-list/shopping-list.service';
 
 @Component({
   selector: 'app-root',
